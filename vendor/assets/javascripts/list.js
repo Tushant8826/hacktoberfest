@@ -32,7 +32,7 @@ var List =
 /******/ 	// expose the modules object (__webpack_modules__)
 /******/ 	__webpack_require__.m = modules;
 
-/******/ 	// expose the module cache
+/******/ 	// expose the modules cache
 /******/ 	__webpack_require__.c = installedModules;
 
 /******/ 	// identity function for calling harmony imports with the correct context
